@@ -1,2 +1,0 @@
-# finMSG
-Automated ChatBot Solution
